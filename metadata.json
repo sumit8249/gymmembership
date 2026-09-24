@@ -1,0 +1,7 @@
+{
+  "name": "Apex Fitness Pro",
+  "description": "High-velocity gym membership operations, live facility telemetry, scheduling, billing, and member training app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
